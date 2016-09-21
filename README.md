@@ -1,2 +1,2 @@
 # nyu-lab-git-intro
-This repo is for the lab in NYU class intro to git
+This repo is introducing git to NYU students in lab
